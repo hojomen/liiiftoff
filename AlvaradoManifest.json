@@ -1,0 +1,313 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://github.com/hojomen/liiiftoff/AlvaradoManifest.json",
+  "@type": "sc:Collection",
+  "label": "Alvarado family letters, 1926-1954",
+  "metadata": [
+    {
+      "label": [
+        {
+          "@value": "Title",
+          "@language": "en"
+        }
+      ],
+      "value": "Alvarado family letters, 1926-1954."
+    },
+    {
+      "label": [
+        {
+          "@value": "Collection Number",
+          "@language": "en"
+        }
+      ],
+      "value": [
+        {
+          "@value": "mssAlvarado",
+          "@language": "en"
+        }
+      ]
+    },
+    {
+      "label": [
+        {
+          "@value": "Catalog Record",
+          "@language": "en"
+        }
+      ],
+      "value": [
+        {
+          "@value": "<a href=\"https://catalog.huntington.org/record=b1865650">https://catalog.huntington.org/record=b1865650</a>",
+          "@language": "en"
+        }
+      ]
+    },
+    {
+      "label": [
+        {
+          "@value": "Repository",
+          "@language": "en"
+        }
+      ],
+      "value": [
+        {
+          "@value": "Huntington Digital Library",
+          "@language": "en"
+        }
+      ]
+    }
+  ],
+  "description": [
+    {
+      "@value": "This collection consists of 41 letters primarily from Ysidro Alvarado, living in Mexico, to his family in California, dating from 1926-1954. The letters touch on the route and difficulties of going to the United States border from Guanajuato, Mexico; turning away of persons at the U.S. border in 1928; remittances from persons in the U.S. to relatives in Mexico; motivations for migration; the emotional and financial ties between relatives across the U.S. and Mexico border; and other aspects of life.",
+      "@language": "en"
+    }
+  ],
+  "manifests": [
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45474/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1926-03-06T00:00:00Z",
+      "label": "Letter from Ysidro Alvarado (La Sandia) to Antonio Alvarado (Reseda, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45477/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1928-08-20T00:00:00Z",
+      "label": "Letter from Pascual Carpio (Hacienda de La Sandia) to Antonio Alvarado (Reseda, California?)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45486/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1928-06-13T00:00:00Z",
+      "label": "Letter from Ysidro Alvarado (La Sandia) to Antonio Alvarado (Reseda, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45489/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1927-05-15T00:00:00Z",
+      "label": "Letter from Alberta Alvarez (La Sandia) to Antonio Alvarado (Reseda, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45494/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1928-06-26T00:00:00Z",
+      "label": "Letter from Ysidro Alvarado (La Sandia) to Antonio Alvarado (Reseda, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45501/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1927-04T00:00:00Z",
+      "label": "Letter from Ysidro Alvarado (La Sandia) to Antonio Alvarado (Reseda, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45520/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1928-08-08T00:00:00Z",
+      "label": "Letter from Encarnación Lira (Brawley, California) to Antonio Alvarado (Reseda, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45525/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1928-08-10T00:00:00Z",
+      "label": "Letter from Ysidro Alvarado (La Sandia) to Antonio Alvarado (Reseda, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45530/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1928-11-13T00:00:00Z",
+      "label": "Letter from Ylaria Jacobo (San Miguel de León, Guanajuato, Mexico) to Antonio Alvarado (Reseda, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45535/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1928-09-02T00:00:00Z",
+      "label": "Letter from Ysidro Alvarado (La Sandia) to Antonio Alvarado (Reseda, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45538/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1928-08-31T00:00:00Z",
+      "label": "Letter from Leonor Carpio (Brawley, California) to Antonio Alvarado (Reseda, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45543/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1928-08-08T00:00:00Z",
+      "label": "Letter from Ysidro Alvarado (La Sandia) to José Alvarado (Reseda, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45548/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1928-06-26T00:00:00Z",
+      "label": "Letter from Ysidro Alvarado (La Sandia) to José Alvarado (Reseda, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45553/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1928-09-14T00:00:00Z",
+      "label": "Letter from Leonor Carpio (Brawley, California) to Antonio Alvarado (Reseda, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45560/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1929-03-26T00:00:00Z",
+      "label": "Letter from Ysidro Alvarado (La Sandia) to Antonio Alvarado (Reseda, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45567/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1929-02-24T00:00:00Z",
+      "label": "Letter from Francisco Torres (La Sandia) to Antonio Alvarado (Reseda, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45572/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1928-09-05T00:00:00Z",
+      "label": "Letter from Ysidro Alvarado (La Sandia) to José Alvarado (Reseda, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45577/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1928-07-12T00:00:00Z",
+      "label": "Letter from Ylaria Jacobo (León, Guanajuato, Mexico) to Antonio Alvarado (Reseda, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45582/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1928-06-13T00:00:00Z",
+      "label": "Letter from Ysidro Alvarado (La Sandia) to José Alvarado (Reseda, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45587/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1926-03-06T00:00:00Z",
+      "label": "Letter from Ysidro Alvarado (La Sandia) to Antonio Alvarado (Reseda, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45590/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1928-08-22T00:00:00Z",
+      "label": "Letter from Leonor Carpio (Brawley, California) to Antonio Alvarado (Reseda, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45595/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1929-02-26T00:00:00Z",
+      "label": "Letter from Ysidro Alvarado (La Sandia) to Antonio Alvarado (Reseda, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45600/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1929-06-13T00:00:00Z",
+      "label": "Letter from Ysidro Alvarado (La Sandia) to Antonio Alvarado (Reseda, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45605/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1942-01-26T00:00:00Z",
+      "label": "Letter from Ysidro Alvarado (La Sandia) to Antonio Alvarado (Oxnard, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45610/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1929-07-14T00:00:00Z",
+      "label": "Letter from Ysidro Alvarado (La Sandia) to Antonio Alvarado (Reseda, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45615/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1940-12-14T00:00:00Z",
+      "label": "Letter from Ysidro Alvarado (La Sandia) to Antonio Alvarado (Oxnard, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45622/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1937-05-28T00:00:00Z",
+      "label": "Letter from Ysidro Alvarado, Soledad Alvarado (Antonio's granddaughter), and a third person (?) (La Sandia), to Antonio Alvarado (Oxnard, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45627/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1929-05-26T00:00:00Z",
+      "label": "Letter from Ysidro Alvarado (La Sandia) to Antonio Alvarado (Reseda, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45630/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "20th century",
+      "label": "Postcard."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45635/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1928-07-09T00:00:00Z",
+      "label": "Letter from Ysidro Alvarado (La Sandia) to Antonio Alvarado (Reseda, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45638/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1942-02-28T00:00:00Z",
+      "label": "Letter from Ysidro Alvarado (La Sandia) to Antonio Alvarado."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45643/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1929-06-17T00:00:00Z",
+      "label": "Letter from Leonor Carpio (Brawley, California) to Antonio Alvarado (Reseda, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45648/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1949-01-15T00:00:00Z",
+      "label": "Letter from Augustina Torez (sic for Torres; León) to Clara Torez (sic for Torres; Oxnard)"
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45653/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1948-03-18T00:00:00Z",
+      "label": "Letter from Ysidro Alvarado (La Sandia) to Antonio Alvarado (Oxnard, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45662/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1929-08-23T00:00:00Z",
+      "label": "Letter from Ysidro Alvarado (La Sandia) to Antonio Alvarado (Reseda, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45665/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1951-08-09T00:00:00Z",
+      "label": "Letter from Ysidro and Alberta Alvarado (La Sandia) to Antonio Alvarado."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45670/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1929-04-18T00:00:00Z",
+      "label": "Letter from Ysidro Alvarado (La Sandia) to Antonio Alvarado (Reseda, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45675/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1937-10-04T00:00:00Z",
+      "label": "Letter from Ysidro Alvarado (La Sandia) to Antonio Alvarado (Oxnard, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45678/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1930-01-28T00:00:00Z",
+      "label": "Letter from Ysidro Alvarado (La Sandia) to José Alvarado (Reseda, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45697/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1954-07-27T00:00:00Z",
+      "label": "Letter from Ysidro Alvarado (La Sandia) to Clara Torres de Alvarado (El Río, California)."
+    },
+    {
+      "@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p15150coll7/45702/manifest.json",
+      "@type": "sc:Manifest",
+      "navDate": "1929-06-27T00:00:00Z",
+      "label": "Letter from Ysidro Alvarado (La Sandia) to Antonio Alvarado (Reseda, California)."
+    }
+  ]
+}
