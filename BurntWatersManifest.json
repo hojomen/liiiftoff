@@ -1,13 +1,12 @@
 {
+	 // Metadata about this manifest file
 	"@context": "http://iiif.io/api/presentation/2/context.json",
 	"@type": "sc:Manifest",
-	"@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p16003coll14/1564/manifest.json",
-	"label": "Hie nach stend verczeÿchnet die aussgepranten wasser in welicher mass man die zü den gelidern nüczen vn prauchen sol / als den meysten Michel Schrick doctor im der Erczneÿ die beschriben hat vnd ist gar güt vn nüczlich züwissen.",
+	"@id": "https://raw.githubusercontent.com/hojomen/liiiftoff/main/BurntWatersManifest.json",
+
+	 // Metadata about the work(s)
+	"label": "Von den ausgebrannten Wässern",
 	"metadata": [
-		{
-			"label": "Title",
-			"value": "Von den ausgebrannten Wässern"
-		},
 		{
 			"label": "Creator",
 			"value": "Schrick, Michael Puff von, approximately 1400-1473."
@@ -23,9 +22,8 @@
 	],
 	"attribution": [
 		"",
-		"For information on using Huntington Library materials, please see Reproductions of Huntington Library Holdings: https://www.huntington.org/library-rights-permissions"
+		"Items from The Huntington Library, Stadtbibliothek Schaffhausen, Staatsbibliothek zu Berlin, and Bayerische Staatsbibliothek."
 	],
-	"within": "https://cdm16003.contentdm.oclc.org/iiif/info/p16003coll14/manifest.json",
 	"sequences": [
 		{
 			"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1564/sequence/s0",
@@ -88,7 +86,7 @@
 						},
 						{
 							"label": "Source",
-							"value": "<span>From: <a href=\\\"https://hdl.huntington.org/digital/collection/p16003coll14/id/1564\\\">Hie nach stend verczeÿchnet die aussgepranten wasser in welicher mass man die zü den gelidern nüczen vn prauchen sol / als den meysten Michel Schrick doctor im der Erczneÿ die beschriben hat vnd ist gar güt vn nüczlich züwissen.</a></span>"
+							"value": "<span>From: <a href=\"https://hdl.huntington.org/digital/collection/p16003coll14/id/1564\">Hie nach stend verczeÿchnet die aussgepranten wasser in welicher mass man die zü den gelidern nüczen vn prauchen sol / als den meysten Michel Schrick doctor im der Erczneÿ die beschriben hat vnd ist gar güt vn nüczlich züwissen.</a></span>"
 						}
 					]
 				},
@@ -148,7 +146,7 @@
 						},
 						{
 							"label": "Source",
-							"value": "span>From: <a href=\\\"https://hdl.huntington.org/digital/collection/p16003coll14/id/1564\\\">Hie nach stend verczeÿchnet die aussgepranten wasser in welicher mass man die zü den gelidern nüczen vn prauchen sol / als den meysten Michel Schrick doctor im der Erczneÿ die beschriben hat vnd ist gar güt vn nüczlich züwissen.</a></span>"
+							"value": "span>From: <a href=\"https://hdl.huntington.org/digital/collection/p16003coll14/id/1564\">Hie nach stend verczeÿchnet die aussgepranten wasser in welicher mass man die zü den gelidern nüczen vn prauchen sol / als den meysten Michel Schrick doctor im der Erczneÿ die beschriben hat vnd ist gar güt vn nüczlich züwissen.</a></span>"
 						}
 					]
 				},
@@ -287,7 +285,7 @@
 						},
 						{
 							"label": "Source",
-							"value": "<span>From: <a href=\\\"https://hdl.huntington.org/digital/collection/p16003coll14/id/791\\\">Hie nach stond verzaichnet die vsz gepranteen wasser. In welcher masz man die denglidern nütz vnd prauchen soi / Alsz den[n] maister Michel Spricht doctor in der ertzny die beschriben hat vnd ist gargüt vnd nütlich ze wissen.</a></span>"
+							"value": "<span>From: <a href=\"https://hdl.huntington.org/digital/collection/p16003coll14/id/791\">Hie nach stond verzaichnet die vsz gepranteen wasser. In welcher masz man die denglidern nütz vnd prauchen soi / Alsz den[n] maister Michel Spricht doctor in der ertzny die beschriben hat vnd ist gargüt vnd nütlich ze wissen.</a></span>"
 						}
 					]
 				},
@@ -352,7 +350,7 @@
 						},
 						{
 							"label": "Source",
-							"value": "<span>From: <a href=\\\"https://hdl.huntington.org/digital/collection/p16003coll14/id/791\\\">Hie nach stond verzaichnet die vsz gepranteen wasser. In welcher masz man die denglidern nütz vnd prauchen soi / Alsz den[n] maister Michel Spricht doctor in der ertzny die beschriben hat vnd ist gargüt vnd nütlich ze wissen.</a></span>"
+							"value": "<span>From: <a href=\"https://hdl.huntington.org/digital/collection/p16003coll14/id/791\">Hie nach stond verzaichnet die vsz gepranteen wasser. In welcher masz man die denglidern nütz vnd prauchen soi / Alsz den[n] maister Michel Spricht doctor in der ertzny die beschriben hat vnd ist gargüt vnd nütlich ze wissen.</a></span>"
 						}
 					]
 				},
@@ -444,7 +442,7 @@
 						},
 						{
 							"label": "Source",
-							"value": "<span>From: <a href=\\\"http://resolver.staatsbibliothek-berlin.de/SBB00021D3600000000\\\">http://resolver.staatsbibliothek-berlin.de/SBB00021D3600000000</a></span>"
+							"value": "<span>From: <a href=\"http://resolver.staatsbibliothek-berlin.de/SBB00021D3600000000\">http://resolver.staatsbibliothek-berlin.de/SBB00021D3600000000</a></span>"
 						}
 					]
 				},
@@ -496,7 +494,7 @@
 						},
 						{
 							"label": "Source",
-							"value": "<span>From: <a href=\\\"https://opacplus.bsb-muenchen.de/title/BV022547818\\\">https://opacplus.bsb-muenchen.de/title/BV022547818</a></span>"
+							"value": "<span>From: <a href=\"https://opacplus.bsb-muenchen.de/title/BV022547818\">https://opacplus.bsb-muenchen.de/title/BV022547818</a></span>"
 						}
 					]
 				},
@@ -548,7 +546,7 @@
 						},
 						{
 							"label": "Source",
-							"value": "<span>From: <a href=\\\"https://opacplus.bsb-muenchen.de/title/BV022547818\\\">https://opacplus.bsb-muenchen.de/title/BV022547818</a></span>"
+							"value": "<span>From: <a href=\"https://opacplus.bsb-muenchen.de/title/BV022547818\">https://opacplus.bsb-muenchen.de/title/BV022547818</a></span>"
 						}
 					]
 				}
@@ -557,56 +555,66 @@
 	],
 	"structures": [
 		{
-			"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1564/range/r0",
+			"@id": "https://example.org/iiif/book1/range/r0",
 			"@type": "sc:Range",
-			"label": "Hie nach stend verczeÿchnet die aussgepranten wasser in welicher mass man die zü den gelidern nüczen vn prauchen sol / als den meysten Michel Schrick doctor im der Erczneÿ die beschriben hat vnd ist gar güt vn nüczlich züwissen.",
-			"ranges": [],
-			"canvases": [
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1519/canvas/c0",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1520/canvas/c1",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1521/canvas/c2",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1522/canvas/c3",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1523/canvas/c4",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1524/canvas/c5",
+			"label": "Contents",
+			"viewingHint": "top",
+			"members": [
+                {
+                  "@id": "http://example.org/iiif/book1/range/r1",
+                  "@type": "sc:Range",
+                  "label": "1477 printing"
+                }
+                {
+                  "@id": "http://example.org/iiif/book1/range/r1",
+                  "@type": "sc:Range",
+                  "label": "Late 15th century manuscript"
+                }
+                {
+                  "@id": "http://example.org/iiif/book1/range/r1",
+                  "@type": "sc:Range",
+                  "label": "1482 printings"
+                }
+          	]
+        },
+        {
+             "@id": "http://example.org/iiif/book1/range/r1",
+             "@type": "sc:Range",
+             "label": "1477 printing",
+			 "canvases": [
 				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1525/canvas/c6",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1526/canvas/c7",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1527/canvas/c8",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1528/canvas/c9",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1529/canvas/c10",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1530/canvas/c11",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1531/canvas/c12",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1532/canvas/c13",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1533/canvas/c14",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1534/canvas/c15",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1535/canvas/c16",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1536/canvas/c17",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1537/canvas/c18",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1538/canvas/c19",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1539/canvas/c20",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1540/canvas/c21",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1541/canvas/c22",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1542/canvas/c23",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1543/canvas/c24",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1544/canvas/c25",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1545/canvas/c26",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1546/canvas/c27",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1547/canvas/c28",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1548/canvas/c29",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1549/canvas/c30",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1550/canvas/c31",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1551/canvas/c32",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1552/canvas/c33",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1553/canvas/c34",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1554/canvas/c35",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1555/canvas/c36",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1556/canvas/c37",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1557/canvas/c38",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1558/canvas/c39",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1559/canvas/c40",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1560/canvas/c41",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1561/canvas/c42",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1562/canvas/c43",
-				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1563/canvas/c44"
+				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1526/canvas/c7"
+			]
+		},
+		{
+             "@id": "http://example.org/iiif/book1/range/r1",
+             "@type": "sc:Range",
+             "label": "Late 15th century manuscript",
+			 "canvases": [
+				"https://www.e-codices.ch/metadata/iiif/sbs-gen0026/canvas/sbs-gen0026_0147r.json",
+				"https://www.e-codices.ch/metadata/iiif/sbs-gen0026/canvas/sbs-gen0026_0147v.json"
+			]
+		},
+		{
+             "@id": "http://example.org/iiif/book1/range/r1",
+             "@type": "sc:Range",
+             "label": "Late 15th century manuscript",
+			 "canvases": [
+				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/762/canvas/c6",
+				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/763/canvas/c7"
+			]
+		},	
+		{
+             "@id": "http://example.org/iiif/book1/range/r1",
+             "@type": "sc:Range",
+             "label": "1482 printings",
+			 "canvases": [		
+			 	"https://content.staatsbibliothek-berlin.de/dc/1013756495-0005/canvas",
+				"https://content.staatsbibliothek-berlin.de/dc/1013756495-0006/canvas",
+				"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00013338/canvas/5",
+				"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00013338/canvas/6"
+			]
+		},
 			],
 			"viewingHint": "top"
 		}
