@@ -21,7 +21,7 @@
 		"Items from The Huntington Library, Stadtbibliothek Schaffhausen, Staatsbibliothek zu Berlin, and Bayerische Staatsbibliothek."
 	],
 	"sequences": [{
-		"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1564/sequence/s0",
+		"@id": "http://35058afc-a5ef-4970-9958-1f2721cc2175",
 		"@type": "sc:Sequence",
 		"label": "",
 		"canvases": [{
