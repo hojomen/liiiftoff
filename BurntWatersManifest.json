@@ -1,13 +1,9 @@
 {
-	 // Metadata about this manifest file
 	"@context": "http://iiif.io/api/presentation/2/context.json",
 	"@type": "sc:Manifest",
 	"@id": "https://raw.githubusercontent.com/hojomen/liiiftoff/main/BurntWatersManifest.json",
-
-	 // Metadata about the work(s)
 	"label": "Von den ausgebrannten Wässern",
-	"metadata": [
-		{
+	"metadata": [{
 			"label": "Creator",
 			"value": "Schrick, Michael Puff von, approximately 1400-1473."
 		},
@@ -24,599 +20,552 @@
 		"",
 		"Items from The Huntington Library, Stadtbibliothek Schaffhausen, Staatsbibliothek zu Berlin, and Bayerische Staatsbibliothek."
 	],
-	"sequences": [
-		{
-			"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1564/sequence/s0",
-			"@type": "sc:Sequence",
-			"label": "",
-			"canvases": [
-				{
-					"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1525/canvas/c6",
-					"@type": "sc:Canvas",
-					"label": "1477 (Huntington Copy) - Table recto",
-					"images": [
-						{
-							"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1525/annotation/a6",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1525/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1525",
-									"width": 6365,
-									"height": 8400,
-									"tiles": [
-										{
-											"width": 6365,
-											"scaleFactors": [
-												1,
-												2,
-												4,
-												8,
-												16
-											]
-										}
-									],
-									"profile": "http://iiif.io/api/image/2/level1.json",
-									"protocol": "http://iiif.io/api/image"
-								},
-								"format": "image/jpeg",
+	"sequences": [{
+		"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1564/sequence/s0",
+		"@type": "sc:Sequence",
+		"label": "",
+		"canvases": [{
+				"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1525/canvas/c6",
+				"@type": "sc:Canvas",
+				"label": "1477 (Huntington Copy) - Table recto",
+				"images": [{
+					"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1525/annotation/a6",
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"resource": {
+						"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1525/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1525",
+							"width": 6365,
+							"height": 8400,
+							"tiles": [{
 								"width": 6365,
-								"height": 8400
-							},
-							"on": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1525/canvas/c6"
-						}
-					],
-					"width": 6365,
-					"height": 8400,
-					"metadata": [
-						{
-							"label": "Contributor",
-							"value": "Bämler, Johann, approximately 1430-1503, printer."
+								"scaleFactors": [
+									1,
+									2,
+									4,
+									8,
+									16
+								]
+							}],
+							"profile": "http://iiif.io/api/image/2/level1.json",
+							"protocol": "http://iiif.io/api/image"
 						},
-						{
-							"label": "Place of Creation",
-							"value": "Augsburg"
-						},
-						{
-							"label": "Imprint",
-							"value": "[Augsburg] : Dises püchlin hat getruckt et vnd volendet Iohannes Bä̈mler zü Augspurg, Am mäntag vor aller heyligen tag. Anno d[omi]ni [et]c. in dem lxxvij jare. [27 Oct. 1477]."
-						},
-						{
-							"label": "Source",
-							"value": "<span>From: <a href=\"https://hdl.huntington.org/digital/collection/p16003coll14/id/1564\">Hie nach stend verczeÿchnet die aussgepranten wasser in welicher mass man die zü den gelidern nüczen vn prauchen sol / als den meysten Michel Schrick doctor im der Erczneÿ die beschriben hat vnd ist gar güt vn nüczlich züwissen.</a></span>"
-						}
-					]
-				},
-				{
-					"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1526/canvas/c7",
-					"@type": "sc:Canvas",
-					"label": "1477 (Huntington Copy) - Table verso",
-					"images": [
-						{
-							"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1526/annotation/a7",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1526/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1526",
-									"width": 6619,
-									"height": 8400,
-									"tiles": [
-										{
-											"width": 6619,
-											"scaleFactors": [
-												1,
-												2,
-												4,
-												8,
-												16
-											]
-										}
-									],
-									"profile": "http://iiif.io/api/image/2/level1.json",
-									"protocol": "http://iiif.io/api/image"
-								},
-								"format": "image/jpeg",
-								"width": 6619,
-								"height": 8400
-							},
-							"on": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1526/canvas/c7"
-						}
-					],
-					"width": 6619,
-					"height": 8400,
-					"metadata": [
-						{
-							"label": "Contributor",
-							"value": "Bämler, Johann, approximately 1430-1503, printer."
-						},
-						{
-							"label": "Place of Creation",
-							"value": "Augsburg"
-						},
-						{
-							"label": "Imprint",
-							"value": "[Augsburg] : Dises püchlin hat getruckt et vnd volendet Iohannes Bä̈mler zü Augspurg, Am mäntag vor aller heyligen tag. Anno d[omi]ni [et]c. in dem lxxvij jare. [27 Oct. 1477]."
-						},
-						{
-							"label": "Source",
-							"value": "span>From: <a href=\"https://hdl.huntington.org/digital/collection/p16003coll14/id/1564\">Hie nach stend verczeÿchnet die aussgepranten wasser in welicher mass man die zü den gelidern nüczen vn prauchen sol / als den meysten Michel Schrick doctor im der Erczneÿ die beschriben hat vnd ist gar güt vn nüczlich züwissen.</a></span>"
-						}
-					]
-				},
-				{
-					"@id": "https://www.e-codices.ch/metadata/iiif/sbs-gen0026/canvas/sbs-gen0026_0147r.json",
-					"@type": "sc:Canvas",
-					"label": "1475 to 1499 (Manuscript) - Table recto",
-					"height": 8176,
-					"width": 6132,
-					"images": [
-						{
-							"@id": "https://www.e-codices.ch/metadata/iiif/sbs-gen0026/annotation/sbs-gen0026_0147r.json",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"on": "https://www.e-codices.ch/metadata/iiif/sbs-gen0026/canvas/sbs-gen0026_0147r.json",
-							"resource": {
-								"@id": "https://www.e-codices.ch/loris/sbs/sbs-gen0026/sbs-gen0026_0147r.jp2/full/full/0/default/jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"height": 8176,
-								"width": 6132,
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://www.e-codices.ch/loris/sbs/sbs-gen0026/sbs-gen0026_0147r.jp2",
-									"profile": "http://iiif.io/api/image/2/level2.json"
-								}
-							}
-						}
-					],
-					"related": {
-						"@id": "https://www.e-codices.ch/metadata/iiif/sbs-gen0026/manifest.json",
-						"label": "Schaffhausen, Stadtbibliothek, Gen. 26",
-						"format": ""
+						"format": "image/jpeg",
+						"width": 6365,
+						"height": 8400
 					},
-					"metadata": [
-						{
-							"label": "Contributor",
-							"value": "Bengger, Magnus, scribe."
-						},
-						{
-							"label": "Place of Creation",
-							"value": "Southwestern Germany (Ulm)"
-						}
-					]
-				},
-				{
-					"@id": "https://www.e-codices.ch/metadata/iiif/sbs-gen0026/canvas/sbs-gen0026_0147v.json",
-					"@type": "sc:Canvas",
-					"label": "1475 to 1499 (Manuscript) - Table recto",
-					"height": 8176,
-					"width": 6132,
-					"images": [
-						{
-							"@id": "https://www.e-codices.ch/metadata/iiif/sbs-gen0026/annotation/sbs-gen0026_0147v.json",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"on": "https://www.e-codices.ch/metadata/iiif/sbs-gen0026/canvas/sbs-gen0026_0147v.json",
-							"resource": {
-								"@id": "https://www.e-codices.ch/loris/sbs/sbs-gen0026/sbs-gen0026_0147v.jp2/full/full/0/default/jpg",
-								"@type": "dctypes:Image",
-								"format": "image/jpeg",
-								"height": 8176,
-								"width": 6132,
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://www.e-codices.ch/loris/sbs/sbs-gen0026/sbs-gen0026_0147v.jp2",
-									"profile": "http://iiif.io/api/image/2/level2.json"
-								}
-							}
-						}
-					],
-					"related": {
-						"@id": "https://www.e-codices.ch/metadata/iiif/sbs-gen0026/manifest.json",
-						"label": "Schaffhausen, Stadtbibliothek, Gen. 26",
-						"format": ""
+					"on": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1525/canvas/c6"
+				}],
+				"width": 6365,
+				"height": 8400,
+				"metadata": [{
+						"label": "Contributor",
+						"value": "Bämler, Johann, approximately 1430-1503, printer."
+					},
+					{
+						"label": "Place of Creation",
+						"value": "Augsburg"
+					},
+					{
+						"label": "Imprint",
+						"value": "[Augsburg] : Dises püchlin hat getruckt et vnd volendet Iohannes Bä̈mler zü Augspurg, Am mäntag vor aller heyligen tag. Anno d[omi]ni [et]c. in dem lxxvij jare. [27 Oct. 1477]."
+					},
+					{
+						"label": "Source",
+						"value": "<span>From: <a href=\"https://hdl.huntington.org/digital/collection/p16003coll14/id/1564\">Hie nach stend verczeÿchnet die aussgepranten wasser in welicher mass man die zü den gelidern nüczen vn prauchen sol / als den meysten Michel Schrick doctor im der Erczneÿ die beschriben hat vnd ist gar güt vn nüczlich züwissen.</a></span>"
 					}
+				]
+			},
+			{
+				"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1526/canvas/c7",
+				"@type": "sc:Canvas",
+				"label": "1477 (Huntington Copy) - Table verso",
+				"images": [{
+					"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1526/annotation/a7",
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"resource": {
+						"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1526/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1526",
+							"width": 6619,
+							"height": 8400,
+							"tiles": [{
+								"width": 6619,
+								"scaleFactors": [
+									1,
+									2,
+									4,
+									8,
+									16
+								]
+							}],
+							"profile": "http://iiif.io/api/image/2/level1.json",
+							"protocol": "http://iiif.io/api/image"
+						},
+						"format": "image/jpeg",
+						"width": 6619,
+						"height": 8400
+					},
+					"on": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1526/canvas/c7"
+				}],
+				"width": 6619,
+				"height": 8400,
+				"metadata": [{
+						"label": "Contributor",
+						"value": "Bämler, Johann, approximately 1430-1503, printer."
+					},
+					{
+						"label": "Place of Creation",
+						"value": "Augsburg"
+					},
+					{
+						"label": "Imprint",
+						"value": "[Augsburg] : Dises püchlin hat getruckt et vnd volendet Iohannes Bä̈mler zü Augspurg, Am mäntag vor aller heyligen tag. Anno d[omi]ni [et]c. in dem lxxvij jare. [27 Oct. 1477]."
+					},
+					{
+						"label": "Source",
+						"value": "span>From: <a href=\"https://hdl.huntington.org/digital/collection/p16003coll14/id/1564\">Hie nach stend verczeÿchnet die aussgepranten wasser in welicher mass man die zü den gelidern nüczen vn prauchen sol / als den meysten Michel Schrick doctor im der Erczneÿ die beschriben hat vnd ist gar güt vn nüczlich züwissen.</a></span>"
+					}
+				]
+			},
+			{
+				"@id": "https://www.e-codices.ch/metadata/iiif/sbs-gen0026/canvas/sbs-gen0026_0147r.json",
+				"@type": "sc:Canvas",
+				"label": "1475 to 1499 (Manuscript) - Table recto",
+				"height": 8176,
+				"width": 6132,
+				"images": [{
+					"@id": "https://www.e-codices.ch/metadata/iiif/sbs-gen0026/annotation/sbs-gen0026_0147r.json",
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"on": "https://www.e-codices.ch/metadata/iiif/sbs-gen0026/canvas/sbs-gen0026_0147r.json",
+					"resource": {
+						"@id": "https://www.e-codices.ch/loris/sbs/sbs-gen0026/sbs-gen0026_0147r.jp2/full/full/0/default/jpg",
+						"@type": "dctypes:Image",
+						"format": "image/jpeg",
+						"height": 8176,
+						"width": 6132,
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"@id": "https://www.e-codices.ch/loris/sbs/sbs-gen0026/sbs-gen0026_0147r.jp2",
+							"profile": "http://iiif.io/api/image/2/level2.json"
+						}
+					}
+				}],
+				"related": {
+					"@id": "https://www.e-codices.ch/metadata/iiif/sbs-gen0026/manifest.json",
+					"label": "Schaffhausen, Stadtbibliothek, Gen. 26",
+					"format": ""
 				},
-				{
-					"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/762/canvas/c6",
-					"@type": "sc:Canvas",
-					"label": "1482 (Huntington Copy) - Table recto",
-					"images": [
-						{
-							"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/762/annotation/a6",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/762/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/762",
-									"width": 6448,
-									"height": 8400,
-									"tiles": [
-										{
-											"width": 6448,
-											"scaleFactors": [
-												1,
-												2,
-												4,
-												8,
-												16
-											]
-										}
-									],
-									"profile": "http://iiif.io/api/image/2/level1.json",
-									"protocol": "http://iiif.io/api/image"
-								},
-								"format": "image/jpeg",
-								"width": 6448,
-								"height": 8400
-							},
-							"on": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/762/canvas/c6"
-						}
-					],
-					"width": 6448,
-					"height": 8400,
-					"related": {
-						"@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p16003coll14/791/manifest.json",
-						"label": "Hie nach stond verzaichnet die vsz gepranteen wasser. In welcher masz man die denglidern nütz vnd prauchen soi / Alsz den[n] maister Michel Spricht doctor in der ertzny die beschriben hat vnd ist gargüt vnd nütlich ze wissen.",
-						"format": ""
+				"metadata": [{
+						"label": "Contributor",
+						"value": "Bengger, Magnus, scribe."
 					},
-					"metadata": [
-						{
-							"label": "Contributor",
-							"value": "Dinckmut, Konrad, active 1476-1496, printer."
-						},
-						{
-							"label": "Place of Creation",
-							"value": "Ulm"
-						},
-						{
-							"label": "Imprint",
-							"value": "[Ulm] : Dises büchlin hat getruckt vnd volendt Cünrat Dünclamüt zü Vlm, Am samstag nach sant Ballen tag anno d[omi]ni [et]c. In dem Lxxxij. Jar. [19 Oct. 1482]."
-						},
-						{
-							"label": "Source",
-							"value": "<span>From: <a href=\"https://hdl.huntington.org/digital/collection/p16003coll14/id/791\">Hie nach stond verzaichnet die vsz gepranteen wasser. In welcher masz man die denglidern nütz vnd prauchen soi / Alsz den[n] maister Michel Spricht doctor in der ertzny die beschriben hat vnd ist gargüt vnd nütlich ze wissen.</a></span>"
+					{
+						"label": "Place of Creation",
+						"value": "Southwestern Germany (Ulm)"
+					}
+				]
+			},
+			{
+				"@id": "https://www.e-codices.ch/metadata/iiif/sbs-gen0026/canvas/sbs-gen0026_0147v.json",
+				"@type": "sc:Canvas",
+				"label": "1475 to 1499 (Manuscript) - Table recto",
+				"height": 8176,
+				"width": 6132,
+				"images": [{
+					"@id": "https://www.e-codices.ch/metadata/iiif/sbs-gen0026/annotation/sbs-gen0026_0147v.json",
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"on": "https://www.e-codices.ch/metadata/iiif/sbs-gen0026/canvas/sbs-gen0026_0147v.json",
+					"resource": {
+						"@id": "https://www.e-codices.ch/loris/sbs/sbs-gen0026/sbs-gen0026_0147v.jp2/full/full/0/default/jpg",
+						"@type": "dctypes:Image",
+						"format": "image/jpeg",
+						"height": 8176,
+						"width": 6132,
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"@id": "https://www.e-codices.ch/loris/sbs/sbs-gen0026/sbs-gen0026_0147v.jp2",
+							"profile": "http://iiif.io/api/image/2/level2.json"
 						}
-					]
-				},
-				{
-					"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/763/canvas/c7",
-					"@type": "sc:Canvas",
-					"label": "1482 (Huntington Copy) - Table verso",
-					"images": [
-						{
-							"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/763/annotation/a7",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/763/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/763",
-									"width": 6404,
-									"height": 8400,
-									"tiles": [
-										{
-											"width": 6404,
-											"scaleFactors": [
-												1,
-												2,
-												4,
-												8,
-												16
-											]
-										}
-									],
-									"profile": "http://iiif.io/api/image/2/level1.json",
-									"protocol": "http://iiif.io/api/image"
-								},
-								"format": "image/jpeg",
-								"width": 6404,
-								"height": 8400
-							},
-							"on": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/763/canvas/c7"
-						}
-					],
-					"width": 6404,
-					"height": 8400,
-					"related": {
-						"@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p16003coll14/791/manifest.json",
-						"label": "Hie nach stond verzaichnet die vsz gepranteen wasser. In welcher masz man die denglidern nütz vnd prauchen soi / Alsz den[n] maister Michel Spricht doctor in der ertzny die beschriben hat vnd ist gargüt vnd nütlich ze wissen.",
-						"format": ""
-					},
-					"metadata": [
-						{
-							"label": "Contributor",
-							"value": "Dinckmut, Konrad, active 1476-1496, printer."
-						},
-						{
-							"label": "Place of Creation",
-							"value": "Ulm"
-						},
-						{
-							"label": "Imprint",
-							"value": "[Ulm] : Dises büchlin hat getruckt vnd volendt Cünrat Dünclamüt zü Vlm, Am samstag nach sant Ballen tag anno d[omi]ni [et]c. In dem Lxxxij. Jar. [19 Oct. 1482]."
-						},
-						{
-							"label": "Source",
-							"value": "<span>From: <a href=\"https://hdl.huntington.org/digital/collection/p16003coll14/id/791\">Hie nach stond verzaichnet die vsz gepranteen wasser. In welcher masz man die denglidern nütz vnd prauchen soi / Alsz den[n] maister Michel Spricht doctor in der ertzny die beschriben hat vnd ist gargüt vnd nütlich ze wissen.</a></span>"
-						}
-					]
-				},
-				{
-					"@id": "https://content.staatsbibliothek-berlin.de/dc/1013756495-0005/canvas",
-					"@type": "sc:Canvas",
-					"label": "1482 (Berlin State Library copy) - Table recto",
-					"height": 3324,
-					"width": 2508,
-					"images": [
-						{
-							"@id": "https://content.staatsbibliothek-berlin.de/dc/1013756495-0005/annotation",
-							"@type": "oa:Annotation",
-							"motivation": "",
-							"resource": {
-								"@id": "https://content.staatsbibliothek-berlin.de/dc/1013756495-0005/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "",
-								"height": 3324,
-								"width": 2508,
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://content.staatsbibliothek-berlin.de/dc/1013756495-0005",
-									"profile": "http://iiif.io/api/image/2/level1.json"
-								}
-							},
-							"on": "https://content.staatsbibliothek-berlin.de/dc/1013756495-0005/canvas"
-						}
-					],
-					"related": {
-						"@id": "https://content.staatsbibliothek-berlin.de/dc/1013756495/manifest",
-						"label": "Puff von Schrick, Michael: Von den ausgebrannten Wassern",
-						"format": ""
-					},
-					"metadata": [
-						{
-							"label": "Contributor",
-							"value": "Dinckmut, Konrad, active 1476-1496, printer."
-						},
-						{
-							"label": "Place of Creation",
-							"value": "Ulm"
-						},
-						{
-							"label": "Source",
-							"value": "<span>From: <a href=\\\"http://resolver.staatsbibliothek-berlin.de/SBB00021D3600000000\\\">http://resolver.staatsbibliothek-berlin.de/SBB00021D3600000000</a></span>"
-						}
-					]
-				},
-				{
-					"@id": "https://content.staatsbibliothek-berlin.de/dc/1013756495-0006/canvas",
-					"@type": "sc:Canvas",
-					"label": "1482 (Berlin State Library copy) - Table verso",
-					"height": 3324,
-					"width": 2508,
-					"images": [
-						{
-							"@id": "https://content.staatsbibliothek-berlin.de/dc/1013756495-0006/annotation",
-							"@type": "oa:Annotation",
-							"motivation": "",
-							"resource": {
-								"@id": "https://content.staatsbibliothek-berlin.de/dc/1013756495-0006/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": "",
-								"height": 3324,
-								"width": 2508,
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://content.staatsbibliothek-berlin.de/dc/1013756495-0006",
-									"profile": "http://iiif.io/api/image/2/level1.json"
-								}
-							},
-							"on": "https://content.staatsbibliothek-berlin.de/dc/1013756495-0006/canvas"
-						}
-					],
-					"related": {
-						"@id": "https://content.staatsbibliothek-berlin.de/dc/1013756495/manifest",
-						"label": "Puff von Schrick, Michael: Von den ausgebrannten Wassern",
-						"format": ""
-					},
-					"metadata": [
-						{
-							"label": "Contributor",
-							"value": "Dinckmut, Konrad, active 1476-1496, printer."
-						},
-						{
-							"label": "Place of Creation",
-							"value": "Ulm"
-						},
-						{
-							"label": "Source",
-							"value": "<span>From: <a href=\"http://resolver.staatsbibliothek-berlin.de/SBB00021D3600000000\">http://resolver.staatsbibliothek-berlin.de/SBB00021D3600000000</a></span>"
-						}
-					]
-				},
-				{
-					"@id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00013338/canvas/5",
-					"@type": "sc:Canvas",
-					"label": "1482 (Bavarian State Library copy) - Table recto",
-					"service": {
-						"@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
-						"physicalScale": 0.006307382550335571,
-						"physicalUnits": "cm",
-						"profile": "http://iiif.io/api/annex/services/physdim"
-					},
-					"images": [
-						{
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00013338_00005/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00013338_00005",
-									"profile": "http://iiif.io/api/image/2/level2.json",
-									"protocol": "http://iiif.io/api/image"
-								},
-								"format": "image/jpeg",
-								"width": 3129,
-								"height": 4488
-							},
-							"on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00013338/canvas/5"
-						}
-					],
-					"width": 3129,
-					"height": 4488,
-					"related": {
-						"@id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00013338/manifest",
-						"label": "Schrick, Michael: Von den ausgebrannten Wassern",
-						"format": ""
-					},
-					"metadata": [
-						{
-							"label": "Contributor",
-							"value": "Bämler, Johann, printer."
-						},
-						{
-							"label": "Place of Creation",
-							"value": "Augsburg"
-						},
-						{
-							"label": "Source",
-							"value": "<span>From: <a href=\"https://opacplus.bsb-muenchen.de/title/BV022547818\">https://opacplus.bsb-muenchen.de/title/BV022547818</a></span>"
-						}
-					]
-				},
-				{
-					"@id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00013338/canvas/6",
-					"@type": "sc:Canvas",
-					"label": "1482 (Bavarian State Library copy) - Table verso",
-					"service": {
-						"@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
-						"physicalScale": 0.006667500000000001,
-						"physicalUnits": "cm",
-						"profile": "http://iiif.io/api/annex/services/physdim"
-					},
-					"images": [
-						{
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00013338_00006/full/full/0/default.jpg",
-								"@type": "dctypes:Image",
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00013338_00006",
-									"profile": "http://iiif.io/api/image/2/level2.json",
-									"protocol": "http://iiif.io/api/image"
-								},
-								"format": "image/jpeg",
-								"width": 2960,
-								"height": 4464
-							},
-							"on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00013338/canvas/6"
-						}
-					],
-					"width": "2960",
-					"height": 4464,
-					"related": {
-						"@id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00013338/manifest",
-						"label": "Schrick, Michael: Von den ausgebrannten Wassern",
-						"format": ""
-					},
-					"metadata": [
-						{
-							"label": "Contributor",
-							"value": "Bämler, Johann, printer."
-						},
-						{
-							"label": "Place of Creation",
-							"value": "Augsburg"
-						},
-						{
-							"label": "Source",
-							"value": "<span>From: <a href=\"https://opacplus.bsb-muenchen.de/title/BV022547818\">https://opacplus.bsb-muenchen.de/title/BV022547818</a></span>"
-						}
-					]
+					}
+				}],
+				"related": {
+					"@id": "https://www.e-codices.ch/metadata/iiif/sbs-gen0026/manifest.json",
+					"label": "Schaffhausen, Stadtbibliothek, Gen. 26",
+					"format": ""
 				}
-			]
-		}
-	],
-	"structures": [
-		{
+			},
+			{
+				"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/762/canvas/c6",
+				"@type": "sc:Canvas",
+				"label": "1482 (Huntington Copy) - Table recto",
+				"images": [{
+					"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/762/annotation/a6",
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"resource": {
+						"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/762/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/762",
+							"width": 6448,
+							"height": 8400,
+							"tiles": [{
+								"width": 6448,
+								"scaleFactors": [
+									1,
+									2,
+									4,
+									8,
+									16
+								]
+							}],
+							"profile": "http://iiif.io/api/image/2/level1.json",
+							"protocol": "http://iiif.io/api/image"
+						},
+						"format": "image/jpeg",
+						"width": 6448,
+						"height": 8400
+					},
+					"on": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/762/canvas/c6"
+				}],
+				"width": 6448,
+				"height": 8400,
+				"related": {
+					"@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p16003coll14/791/manifest.json",
+					"label": "Hie nach stond verzaichnet die vsz gepranteen wasser. In welcher masz man die denglidern nütz vnd prauchen soi / Alsz den[n] maister Michel Spricht doctor in der ertzny die beschriben hat vnd ist gargüt vnd nütlich ze wissen.",
+					"format": ""
+				},
+				"metadata": [{
+						"label": "Contributor",
+						"value": "Dinckmut, Konrad, active 1476-1496, printer."
+					},
+					{
+						"label": "Place of Creation",
+						"value": "Ulm"
+					},
+					{
+						"label": "Imprint",
+						"value": "[Ulm] : Dises büchlin hat getruckt vnd volendt Cünrat Dünclamüt zü Vlm, Am samstag nach sant Ballen tag anno d[omi]ni [et]c. In dem Lxxxij. Jar. [19 Oct. 1482]."
+					},
+					{
+						"label": "Source",
+						"value": "<span>From: <a href=\"https://hdl.huntington.org/digital/collection/p16003coll14/id/791\">Hie nach stond verzaichnet die vsz gepranteen wasser. In welcher masz man die denglidern nütz vnd prauchen soi / Alsz den[n] maister Michel Spricht doctor in der ertzny die beschriben hat vnd ist gargüt vnd nütlich ze wissen.</a></span>"
+					}
+				]
+			},
+			{
+				"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/763/canvas/c7",
+				"@type": "sc:Canvas",
+				"label": "1482 (Huntington Copy) - Table verso",
+				"images": [{
+					"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/763/annotation/a7",
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"resource": {
+						"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/763/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"@id": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/763",
+							"width": 6404,
+							"height": 8400,
+							"tiles": [{
+								"width": 6404,
+								"scaleFactors": [
+									1,
+									2,
+									4,
+									8,
+									16
+								]
+							}],
+							"profile": "http://iiif.io/api/image/2/level1.json",
+							"protocol": "http://iiif.io/api/image"
+						},
+						"format": "image/jpeg",
+						"width": 6404,
+						"height": 8400
+					},
+					"on": "https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/763/canvas/c7"
+				}],
+				"width": 6404,
+				"height": 8400,
+				"related": {
+					"@id": "https://cdm16003.contentdm.oclc.org/iiif/info/p16003coll14/791/manifest.json",
+					"label": "Hie nach stond verzaichnet die vsz gepranteen wasser. In welcher masz man die denglidern nütz vnd prauchen soi / Alsz den[n] maister Michel Spricht doctor in der ertzny die beschriben hat vnd ist gargüt vnd nütlich ze wissen.",
+					"format": ""
+				},
+				"metadata": [{
+						"label": "Contributor",
+						"value": "Dinckmut, Konrad, active 1476-1496, printer."
+					},
+					{
+						"label": "Place of Creation",
+						"value": "Ulm"
+					},
+					{
+						"label": "Imprint",
+						"value": "[Ulm] : Dises büchlin hat getruckt vnd volendt Cünrat Dünclamüt zü Vlm, Am samstag nach sant Ballen tag anno d[omi]ni [et]c. In dem Lxxxij. Jar. [19 Oct. 1482]."
+					},
+					{
+						"label": "Source",
+						"value": "<span>From: <a href=\"https://hdl.huntington.org/digital/collection/p16003coll14/id/791\">Hie nach stond verzaichnet die vsz gepranteen wasser. In welcher masz man die denglidern nütz vnd prauchen soi / Alsz den[n] maister Michel Spricht doctor in der ertzny die beschriben hat vnd ist gargüt vnd nütlich ze wissen.</a></span>"
+					}
+				]
+			},
+			{
+				"@id": "https://content.staatsbibliothek-berlin.de/dc/1013756495-0005/canvas",
+				"@type": "sc:Canvas",
+				"label": "1482 (Berlin State Library copy) - Table recto",
+				"height": 3324,
+				"width": 2508,
+				"images": [{
+					"@id": "https://content.staatsbibliothek-berlin.de/dc/1013756495-0005/annotation",
+					"@type": "oa:Annotation",
+					"motivation": "",
+					"resource": {
+						"@id": "https://content.staatsbibliothek-berlin.de/dc/1013756495-0005/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"format": "",
+						"height": 3324,
+						"width": 2508,
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"@id": "https://content.staatsbibliothek-berlin.de/dc/1013756495-0005",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
+					},
+					"on": "https://content.staatsbibliothek-berlin.de/dc/1013756495-0005/canvas"
+				}],
+				"related": {
+					"@id": "https://content.staatsbibliothek-berlin.de/dc/1013756495/manifest",
+					"label": "Puff von Schrick, Michael: Von den ausgebrannten Wassern",
+					"format": ""
+				},
+				"metadata": [{
+						"label": "Contributor",
+						"value": "Dinckmut, Konrad, active 1476-1496, printer."
+					},
+					{
+						"label": "Place of Creation",
+						"value": "Ulm"
+					},
+					{
+						"label": "Source",
+						"value": "<span>From: <a href=\\\"http://resolver.staatsbibliothek-berlin.de/SBB00021D3600000000\\\">http://resolver.staatsbibliothek-berlin.de/SBB00021D3600000000</a></span>"
+					}
+				]
+			},
+			{
+				"@id": "https://content.staatsbibliothek-berlin.de/dc/1013756495-0006/canvas",
+				"@type": "sc:Canvas",
+				"label": "1482 (Berlin State Library copy) - Table verso",
+				"height": 3324,
+				"width": 2508,
+				"images": [{
+					"@id": "https://content.staatsbibliothek-berlin.de/dc/1013756495-0006/annotation",
+					"@type": "oa:Annotation",
+					"motivation": "",
+					"resource": {
+						"@id": "https://content.staatsbibliothek-berlin.de/dc/1013756495-0006/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"format": "",
+						"height": 3324,
+						"width": 2508,
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"@id": "https://content.staatsbibliothek-berlin.de/dc/1013756495-0006",
+							"profile": "http://iiif.io/api/image/2/level1.json"
+						}
+					},
+					"on": "https://content.staatsbibliothek-berlin.de/dc/1013756495-0006/canvas"
+				}],
+				"related": {
+					"@id": "https://content.staatsbibliothek-berlin.de/dc/1013756495/manifest",
+					"label": "Puff von Schrick, Michael: Von den ausgebrannten Wassern",
+					"format": ""
+				},
+				"metadata": [{
+						"label": "Contributor",
+						"value": "Dinckmut, Konrad, active 1476-1496, printer."
+					},
+					{
+						"label": "Place of Creation",
+						"value": "Ulm"
+					},
+					{
+						"label": "Source",
+						"value": "<span>From: <a href=\"http://resolver.staatsbibliothek-berlin.de/SBB00021D3600000000\">http://resolver.staatsbibliothek-berlin.de/SBB00021D3600000000</a></span>"
+					}
+				]
+			},
+			{
+				"@id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00013338/canvas/5",
+				"@type": "sc:Canvas",
+				"label": "1482 (Bavarian State Library copy) - Table recto",
+				"service": {
+					"@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+					"physicalScale": 0.006307382550335571,
+					"physicalUnits": "cm",
+					"profile": "http://iiif.io/api/annex/services/physdim"
+				},
+				"images": [{
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"resource": {
+						"@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00013338_00005/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00013338_00005",
+							"profile": "http://iiif.io/api/image/2/level2.json",
+							"protocol": "http://iiif.io/api/image"
+						},
+						"format": "image/jpeg",
+						"width": 3129,
+						"height": 4488
+					},
+					"on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00013338/canvas/5"
+				}],
+				"width": 3129,
+				"height": 4488,
+				"related": {
+					"@id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00013338/manifest",
+					"label": "Schrick, Michael: Von den ausgebrannten Wassern",
+					"format": ""
+				},
+				"metadata": [{
+						"label": "Contributor",
+						"value": "Bämler, Johann, printer."
+					},
+					{
+						"label": "Place of Creation",
+						"value": "Augsburg"
+					},
+					{
+						"label": "Source",
+						"value": "<span>From: <a href=\"https://opacplus.bsb-muenchen.de/title/BV022547818\">https://opacplus.bsb-muenchen.de/title/BV022547818</a></span>"
+					}
+				]
+			},
+			{
+				"@id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00013338/canvas/6",
+				"@type": "sc:Canvas",
+				"label": "1482 (Bavarian State Library copy) - Table verso",
+				"service": {
+					"@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+					"physicalScale": 0.006667500000000001,
+					"physicalUnits": "cm",
+					"profile": "http://iiif.io/api/annex/services/physdim"
+				},
+				"images": [{
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"resource": {
+						"@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00013338_00006/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00013338_00006",
+							"profile": "http://iiif.io/api/image/2/level2.json",
+							"protocol": "http://iiif.io/api/image"
+						},
+						"format": "image/jpeg",
+						"width": 2960,
+						"height": 4464
+					},
+					"on": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00013338/canvas/6"
+				}],
+				"width": "2960",
+				"height": 4464,
+				"related": {
+					"@id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00013338/manifest",
+					"label": "Schrick, Michael: Von den ausgebrannten Wassern",
+					"format": ""
+				},
+				"metadata": [{
+						"label": "Contributor",
+						"value": "Bämler, Johann, printer."
+					},
+					{
+						"label": "Place of Creation",
+						"value": "Augsburg"
+					},
+					{
+						"label": "Source",
+						"value": "<span>From: <a href=\"https://opacplus.bsb-muenchen.de/title/BV022547818\">https://opacplus.bsb-muenchen.de/title/BV022547818</a></span>"
+					}
+				]
+			}
+		]
+	}],
+	"structures": [{
 			"@id": "https://example.org/iiif/book1/range/r0",
 			"@type": "sc:Range",
 			"label": "Contents",
 			"viewingHint": "top",
-			"members": [
-                {
-                  "@id": "http://example.org/iiif/book1/range/r1",
-                  "@type": "sc:Range",
-                  "label": "1477 printing"
-                }
-                {
-                  "@id": "http://example.org/iiif/book1/range/r1",
-                  "@type": "sc:Range",
-                  "label": "Late 15th century manuscript"
-                }
-                {
-                  "@id": "http://example.org/iiif/book1/range/r1",
-                  "@type": "sc:Range",
-                  "label": "1482 printings"
-                }
-          	]
-        },
-        {
-             "@id": "http://example.org/iiif/book1/range/r1",
-             "@type": "sc:Range",
-             "label": "1477 printing",
-			 "canvases": [
+			"members": [{
+				"@id": "http://example.org/iiif/book1/range/r1",
+				"@type": "sc:Range",
+				"label": "1477 printing"
+			}, {
+				"@id": "http://example.org/iiif/book1/range/r1",
+				"@type": "sc:Range",
+				"label": "Late 15th century manuscript"
+			}, {
+				"@id": "http://example.org/iiif/book1/range/r1",
+				"@type": "sc:Range",
+				"label": "1482 printings"
+			}]
+		},
+		{
+			"@id": "http://example.org/iiif/book1/range/r1",
+			"@type": "sc:Range",
+			"label": "1477 printing",
+			"canvases": [
 				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1525/canvas/c6",
 				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/1526/canvas/c7"
 			]
 		},
 		{
-             "@id": "http://example.org/iiif/book1/range/r1",
-             "@type": "sc:Range",
-             "label": "Late 15th century manuscript",
-			 "canvases": [
+			"@id": "http://example.org/iiif/book1/range/r1",
+			"@type": "sc:Range",
+			"label": "Late 15th century manuscript",
+			"canvases": [
 				"https://www.e-codices.ch/metadata/iiif/sbs-gen0026/canvas/sbs-gen0026_0147r.json",
 				"https://www.e-codices.ch/metadata/iiif/sbs-gen0026/canvas/sbs-gen0026_0147v.json"
 			]
 		},
 		{
-             "@id": "http://example.org/iiif/book1/range/r1",
-             "@type": "sc:Range",
-             "label": "Late 15th century manuscript",
-			 "canvases": [
+			"@id": "http://example.org/iiif/book1/range/r1",
+			"@type": "sc:Range",
+			"label": "Late 15th century manuscript",
+			"canvases": [
 				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/762/canvas/c6",
 				"https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll14/763/canvas/c7"
 			]
-		},	
+		},
 		{
-             "@id": "http://example.org/iiif/book1/range/r1",
-             "@type": "sc:Range",
-             "label": "1482 printings",
-			 "canvases": [		
-			 	"https://content.staatsbibliothek-berlin.de/dc/1013756495-0005/canvas",
+			"@id": "http://example.org/iiif/book1/range/r1",
+			"@type": "sc:Range",
+			"label": "1482 printings",
+			"canvases": [
+				"https://content.staatsbibliothek-berlin.de/dc/1013756495-0005/canvas",
 				"https://content.staatsbibliothek-berlin.de/dc/1013756495-0006/canvas",
 				"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00013338/canvas/5",
 				"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00013338/canvas/6"
 			]
-		},
-			],
-			"viewingHint": "top"
 		}
+
 	]
 }
